@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  background-color: #f4b7e0background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-image: url("canva-pink-heart-phone-wallpaper-VnHIIT4TU2Y.jpg");
+}
+
+main {
+  display: flex;
+}
+
+header {
+  font-size: 30px;
+  background-color: rgba(80,0,0,0.30);
+  padding: 20px;
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+  color: red;
+}
+
+.box1 {
+  padding: 10px;
+  background-color: #ea7ec6;
+  border-radius: 10px;
+  width: auto;
+  margin: 10px;
+  background-color: rgba(80,0,0,0.30);
+  backdrop-filter: blur(2px);
+}
+
+.wrapbox {
+  display: ;
+  justify-content: center;
+}

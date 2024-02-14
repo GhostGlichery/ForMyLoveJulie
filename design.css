@@ -1,0 +1,82 @@
+body {
+  margin: 0px;
+  font-family: Arial;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("canva-pink-heart-phone-wallpaper-VnHIIT4TU2Y.jpg");
+}
+
+header {
+  font-size: 30px;
+  background-color: rgba(80,0,0,0.30);
+  padding: 20px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+span {
+  font-weight: bold;
+  color: red;
+}
+
+main {
+  display: flex;
+}
+
+.content {
+  border: 1px solid #ff4950;
+  padding: 10px;
+  background-color: #ffdafe;
+  margin: auto;
+  transform: translateY(20px);
+  width: auto;
+  height: auto;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 10px;
+}
+
+.question {
+  margin-top: 25%;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+.btnno {
+  padding: 5px;
+  background-color: #e43c3c;
+  border-radius: 10px;
+}
+
+.btnyes {
+  padding: 5px;
+  max-width: 50px;
+  background-color: #64e43c;
+  border-radius: 10px;
+  transition 0.5s ease
+}
+
+.btnyes:hover {
+  color: red;
+}
+
+.answers {
+  padding: 20px;
+}
+
+.answers a {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  margin: 0px;
+}
+
+.ep {
+  font-size: 20px;
+  font-weight: bold;
+}
